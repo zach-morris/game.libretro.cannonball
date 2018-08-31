@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<setting label="30001" type="select" id="cannonball_menu_enabled" values="ON|OFF" default="ON"/>
+		<setting label="30002" type="select" id="cannonball_menu_road_scroll_speed" values="50|60|70|80|90|100|150|200|300|400|500|5|10|15|20|25|30|40" default="50"/>
+		<setting label="30003" type="select" id="cannonball_video_widescreen" values="ON|OFF" default="ON"/>
+		<setting label="30004" type="select" id="cannonball_video_hires" values="ON|OFF" default="OFF"/>
+		<setting label="30005" type="select" id="cannonball_sound_advertise" values="ON|OFF" default="ON"/>
+		<setting label="30006" type="select" id="cannonball_sound_preview" values="ON|OFF" default="ON"/>
+		<setting label="30007" type="select" id="cannonball_sound_fix_samples" values="ON|OFF" default="ON"/>
+		<setting label="30008" type="select" id="cannonball_gear" values="Manual|Manual Cabinet|Manual 2 Buttons|Automatic" default="Manual"/>
+		<setting label="30009" type="select" id="cannonball_steer_speed" values="3|4|5|6|7|8|9|1|2" default="3"/>
+		<setting label="30010" type="select" id="cannonball_pedal_speed" values="4|5|6|7|8|9|1|2|3" default="4"/>
+		<setting label="30011" type="select" id="cannonball_dip_time" values="Easy (80s)|Normal (75s)|Hard (72s)|Very Hard (70s)|Infinite Time" default="Easy (80s)"/>
+		<setting label="30012" type="select" id="cannonball_dip_traffic" values="Normal|Hard|Very Hard|No Traffic|Easy" default="Normal"/>
+		<setting label="30013" type="select" id="cannonball_freeplay" values="ON|OFF" default="OFF"/>
+		<setting label="30014" type="select" id="cannonball_jap" values="ON|OFF" default="OFF"/>
+		<setting label="30015" type="select" id="cannonball_prototype" values="ON|OFF" default="OFF"/>
+		<setting label="30016" type="select" id="cannonball_level_objects" values="ON|OFF" default="ON"/>
+		<setting label="30017" type="select" id="cannonball_randomgen" values="ON|OFF" default="ON"/>
+		<setting label="30018" type="select" id="cannonball_force_ai" values="ON|OFF" default="OFF"/>
+		<setting label="30019" type="select" id="cannonball_fix_bugs" values="ON|OFF" default="ON"/>
+		<setting label="30020" type="select" id="cannonball_fix_timer" values="ON|OFF" default="OFF"/>
+		<setting label="30021" type="select" id="cannonball_layout_debug" values="ON|OFF" default="OFF"/>
+		<setting label="30022" type="select" id="cannonball_new_attract" values="ON|OFF" default="ON"/>
+		<setting label="30023" type="select" id="cannonball_ttrial_laps" values="3|4|5|1|2" default="3"/>
+		<setting label="30024" type="select" id="cannonball_ttrial_traffic" values="3|4|5|6|7|8|0|1|2" default="3"/>
+		<setting label="30025" type="select" id="cannonball_cont_traffic" values="3|4|5|6|7|8|0|1|2" default="3"/>
+	</category>
+</settings>

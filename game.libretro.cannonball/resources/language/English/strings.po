@@ -1,0 +1,121 @@
+# game.libretro.cannonball language file
+# Addon Name: game.libretro.cannonball
+# Addon id: game.libretro.cannonball
+# Addon Provider: libretro
+msgid ""
+msgstr ""
+"Project-Id-Version: game.libretro.cannonball\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2017-02-04 09:56i\n"
+"PO-Revision-Date: 2017-02-04 09:56i\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Menu At Start"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Menu Road Scroll Speed"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Video Widescreen Mode"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Video High-Resolution Mode"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Advertise Sound"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Preview Music"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Fix Samples (use opr-10188.71f)"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Gear Mode"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Digital Steer Speed"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Digital Pedal Speed"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Time"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Traffic"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Freeplay Mode"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Use Japanese Tracks Version"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Use Prototype Stage 1"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Objects Limit Enhanced"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Original Traffic Patterns Randomization"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Force AI To Play"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Fix Original Game Bugs"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Fix Timing Bugs"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Display Debug Info For LayOut"
+msgstr ""
+
+msgctxt "#30022"
+msgid "New Attract"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Time Trial Laps"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Time Trial Traffic Amount"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Continuous Mode Traffic Amount"
+msgstr ""
